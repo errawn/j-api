@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "apollo-server-express": "^2.0.0-rc.10",
     "body-parser": "^1.18.3",
     "chalk": "^2.4.1",
     "express": "^4.16.3",
