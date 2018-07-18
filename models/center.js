@@ -6,4 +6,5 @@ const centerSchema = new Schema({
     longitude: Number
 })
 
-export default mongoose.model('Center', centerSchema)
+const Center = mongoose.model('Center', centerSchema)
+export { Center }
